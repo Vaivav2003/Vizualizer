@@ -35,7 +35,7 @@ To run this project locally:
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/Vaivav2003/Visualizer.git
+   git clone https://github.com/Vaivav2003/Vizualizer
    ```
 
 2. **Navigate to the project directory**:
